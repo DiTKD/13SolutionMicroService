@@ -35,13 +35,13 @@ namespace User.Api
                 c.SwaggerDoc("v1",
                     new Info
                     {
-                        Title = "Conversor de Temperaturas",
+                        Title = "User Api",
                         Version = "v1",
-                        Description = "Exemplo de API REST criada com o ASP.NET Core",
+                        Description = "API REST criada com o ASP.NET Core",
                         Contact = new Contact
                         {
-                            Name = "Renato Groffe",
-                            Url = "https://github.com/renatogroffe"
+                            Name = "13 Net Team Soulution",
+                            Url = "fiap.com.br"
                         }
                     });
 
