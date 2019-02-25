@@ -71,7 +71,7 @@ namespace User.Api
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json",
-                    "Conversor de Temperaturas");
+                    "User Api");
             });
 
             app.UseMvc();
